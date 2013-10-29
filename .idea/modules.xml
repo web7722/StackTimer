@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StackTimer.iml" filepath="$PROJECT_DIR$/StackTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackTimer/StackTimer-StackTimer.iml" filepath="$PROJECT_DIR$/StackTimer/StackTimer-StackTimer.iml" />
+    </modules>
+  </component>
+</project>
+
