@@ -4,6 +4,7 @@
 /project/project/
 /project/target/
 /target/
-.DS_Store
 /bin/
 /gen/
+/project/
+.DS_Store
