@@ -3,6 +3,9 @@ package com.lee.stacktimer.data;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 시간관리 기능의 스택을 Singletone으로 구현하였다.
+ * */
 public enum TimeStack {
 	INSTANCE;
 	

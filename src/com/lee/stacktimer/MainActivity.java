@@ -42,11 +42,13 @@ public class MainActivity extends Activity {
     public void addTask(View view) {
     	TextView taskNameView = (TextView) findViewById(R.id.task);
     	String taskName = taskNameView.getText().toString();
+    	taskNameView.setText("");
+    	
     	TimeStack.INSTANCE.put(new Time(taskName));
     }
     
     public void doneCurrentTask(View view){
-    	
+    	TimeStack.INSTANCE.pop();
     }
 
     @Override
