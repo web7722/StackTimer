@@ -8,3 +8,5 @@
 /gen/
 /project/
 .DS_Store
+.classpath
+.project
